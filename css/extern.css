@@ -20,6 +20,7 @@ margin: auto
     height: 150px;
 
     margin: auto;
+    float: left;
 
 }
 
@@ -53,6 +54,22 @@ margin: auto
 
 }
 
+
+#CenterWindow {
+
+
+    background-color: rgb(255, 201, 191);
+    
+    height: 800px;
+    width: 1495px;
+    margin: auto;
+    
+
+    
+    
+   float: left;
+
+}
 
 #menu{
 
